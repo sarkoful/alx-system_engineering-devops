@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+Create a script that displays the 10 newest files in the current director
