@@ -1,1 +1,1 @@
-The output will differ, depending on the content of the file
+Write a shell script that creates a file named exactly
