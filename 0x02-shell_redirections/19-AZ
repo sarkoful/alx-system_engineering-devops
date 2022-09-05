@@ -1,0 +1,2 @@
+#!/bin/bash
+'linuxize' | tr 'A c' 'Z e'
