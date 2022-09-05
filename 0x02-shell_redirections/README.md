@@ -1,1 +1,1 @@
-display content of first 10 line
+The output will differ, depending on the content of the file
