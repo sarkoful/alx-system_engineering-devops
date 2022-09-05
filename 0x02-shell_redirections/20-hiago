@@ -1,2 +1,2 @@
 #!/bin/bash
-awk c C
+tr -d cC
