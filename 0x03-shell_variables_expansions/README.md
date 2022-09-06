@@ -1,1 +1,1 @@
-Create a script that prints all possible combinations of two letters, excep
+reate a script that prints all possible combinations of two letters, excep
