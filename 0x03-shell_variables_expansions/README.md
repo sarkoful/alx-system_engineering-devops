@@ -1,1 +1,1 @@
-reate a script that prints all possible combinations of two letters, excep
+Write a script that prints a number with two decimal places, followed by a new lin
